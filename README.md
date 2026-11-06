@@ -1,4 +1,4 @@
-🐝 TalentAI — Portal Inteligente e Seguro de Recrutamento & Seleção
+#🐝 TalentAI — Portal Inteligente e Seguro de Recrutamento & Seleção
 
 ⚠️ PROTÓTIPO EM FASE DE CONSTRUÇÃO / PROVA DE CONCEITO (PoC)
 
