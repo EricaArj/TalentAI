@@ -1,3 +1,4 @@
+<img width="636" height="383" alt="CapturartaletAi" src="https://github.com/user-attachments/assets/ebf672f6-d816-4fb4-a25b-f5f51ee950c2" />
 🐝 TalentAI — Portal Inteligente e Seguro de Recrutamento & Seleção
 
 ⚠️ PROTÓTIPO EM FASE DE CONSTRUÇÃO / PROVA DE CONCEITO (PoC)
@@ -48,25 +49,8 @@ Lógica interna simulada para cálculo de compatibilidade percentual entre o per
 
 
 
-talentai-project/
+<img width="636" height="383" alt="CapturartaletAi" src="https://github.com/user-attachments/assets/596601cf-195f-44ff-bd9c-077b12bda580" />
 
-
-├── index.html                  # Ponto de entrada HTML da aplicação
-├── README.md                   # Documentação do projeto
-├── css/
-│   └── styles.css              # Estilos personalizados e imagens de fundo
-└── js/
-    ├── App.js                  # Componente raiz e controlador do protótipo
-    ├── data/
-    │   └── mockData.js         # Base de dados fictícia para simulação
-    └── components/
-        ├── Header.js           # Navegação superior e indicação de status
-        ├── ModalAuth.js        # Fluxo de Login/Cadastro e Token SMS
-        ├── CandidateProfile.js # Gestão do currículo, portfólio e download em .txt
-        ├── RecruiterView.js    # Busca e filtragem de talentos pelo recrutador
-        ├── CompanyProfile.js   # Perfil institucional da empresa e vagas
-        ├── ScheduleView.js     # Agenda e salas virtuais de reuniões
-        └── ChatView.js         # Interface de mensagens diretas
 
 
 🚀 Como Executar o Protótipo Localmente
