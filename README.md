@@ -46,7 +46,11 @@ Lógica interna simulada para cálculo de compatibilidade percentual entre o per
 
 📁 Estrutura de Arquivos do Projeto
 
+
+
 talentai-project/
+
+
 ├── index.html                  # Ponto de entrada HTML da aplicação
 ├── README.md                   # Documentação do projeto
 ├── css/
