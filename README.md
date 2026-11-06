@@ -1,4 +1,3 @@
-<img width="636" height="383" alt="CapturartaletAi" src="https://github.com/user-attachments/assets/ebf672f6-d816-4fb4-a25b-f5f51ee950c2" />
 🐝 TalentAI — Portal Inteligente e Seguro de Recrutamento & Seleção
 
 ⚠️ PROTÓTIPO EM FASE DE CONSTRUÇÃO / PROVA DE CONCEITO (PoC)
